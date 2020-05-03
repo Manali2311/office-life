@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/office-life/static/css/main.cbb4f630.chunk.css",
+    "main.js": "/office-life/static/js/main.179d0d20.chunk.js",
+    "main.js.map": "/office-life/static/js/main.179d0d20.chunk.js.map",
+    "runtime-main.js": "/office-life/static/js/runtime-main.8f9af8de.js",
+    "runtime-main.js.map": "/office-life/static/js/runtime-main.8f9af8de.js.map",
+    "static/css/2.69121389.chunk.css": "/office-life/static/css/2.69121389.chunk.css",
+    "static/js/2.ef3f2a71.chunk.js": "/office-life/static/js/2.ef3f2a71.chunk.js",
+    "static/js/2.ef3f2a71.chunk.js.map": "/office-life/static/js/2.ef3f2a71.chunk.js.map",
+    "index.html": "/office-life/index.html",
+    "precache-manifest.11f09edc485d59b28265be3f25ff6541.js": "/office-life/precache-manifest.11f09edc485d59b28265be3f25ff6541.js",
+    "service-worker.js": "/office-life/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/office-life/static/css/2.69121389.chunk.css.map",
+    "static/css/main.cbb4f630.chunk.css.map": "/office-life/static/css/main.cbb4f630.chunk.css.map",
+    "static/js/2.ef3f2a71.chunk.js.LICENSE.txt": "/office-life/static/js/2.ef3f2a71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f9af8de.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.ef3f2a71.chunk.js",
+    "static/css/main.cbb4f630.chunk.css",
+    "static/js/main.179d0d20.chunk.js"
+  ]
+}
