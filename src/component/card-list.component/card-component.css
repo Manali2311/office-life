@@ -1,0 +1,50 @@
+.card-component
+{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border:1 px solid black;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    -moz-osx-font-smoothing:grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    color:rgb(12, 0, 0);
+    text-align: center;
+    /* font-family: Megrim; */
+    font-family: Fredericka the Great;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.card-component:hover
+{
+transform: scale(1.05);
+}
+
+@media only screen and (min-width : 1000px){
+    .card-component
+    {
+        display: flex;
+        flex-direction: column;
+        background-color:white;
+        border:1 px solid black;
+        border-radius: 5px;
+        padding: 20px;
+        cursor: pointer;
+        -moz-osx-font-smoothing:grayscale;
+        backface-visibility: hidden;
+        transform: translateZ(0);
+        transition: transform 0.25s ease-out;
+        color:black;
+        text-align: center;
+        /* font-family: Megrim; */
+        font-family: Fredericka the Great;
+        width:100%;
+        height:350px;
+    }
+    
+}
