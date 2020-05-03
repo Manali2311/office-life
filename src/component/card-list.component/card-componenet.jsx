@@ -7,6 +7,6 @@ export const Card=(p) =>{
 <img alt="Family" src={`https://robohash.org/${p.family.id}?set=set2&size=180x200`} />
     <h3><i>{p.family.name}</i></h3>
     <b>{p.family.email}</b>
-    <ii>{p.family.no}</ii>
+    <i>{p.family.no}</i>
     </div>
 )}

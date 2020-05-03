@@ -3,8 +3,12 @@ import './Search.css'
 import {Form} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export const Search=({placeholder,handlechange})=>(
-    <div Style="width:50%;" >
+export const Search=({placeholder,handlechange})=>{
+    var mystyle ={
+        width:"50%"
+    }
+    return(
+    <div style={mystyle} >
         <Form.Control 
        type="search" 
        className="search"
@@ -13,3 +17,4 @@ export const Search=({placeholder,handlechange})=>(
 
 </div>
 ) 
+    }
